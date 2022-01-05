@@ -45,6 +45,7 @@ $ npm run test
 ## Abrir o Swagger
 
 ```bash
+Abra no navegador a seguinte URL
 http://localhost:3002/api/
 ```
 
