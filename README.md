@@ -16,7 +16,9 @@ Exemplo prático de uma api desenvolvida em NodeJs com NestJs
 Instale as dependencias
 $ npm install
 
+<a target="_blank" href="https://www.postgresql.org/download/">
 Instale o banco de dados postgres
+</a>
 
 defina DB_USER = postgres
 defina DB_PASSWORD = postgres
