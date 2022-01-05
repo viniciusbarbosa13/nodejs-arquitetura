@@ -45,6 +45,6 @@ $ npm run test
 ## Abrir o Swagger
 
 
-<a href="http://localhost:3002/api/" target="blank">
+<a href="http://localhost:3002/api/" target="_blank">
 Abrir o Swagger
 </a>
