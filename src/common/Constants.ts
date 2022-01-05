@@ -1,0 +1,1 @@
+export const DEFAULT_LIST_PAGE_LIMIT = 10;
