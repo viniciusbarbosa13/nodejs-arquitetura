@@ -6,25 +6,30 @@
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
 
-## Description
+## Descrição
 
 Exemplo prático de uma api desenvolvida em NodeJs com NestJs
 
-## Installation
+## Instalação
 
-```bash
+```Instale as dependencias
 $ npm install
-install postgres db
-define DB_USER = postgres
-define DB_PASSWORD = postgres
-define DB_HOST = postgres
-define DB_PORT = 5432
-create new database named = api-certificados
-finally execute migrations 
+
+Instale o banco de dados postgres
+
+defina DB_USER = postgres
+defina DB_PASSWORD = postgres
+defina DB_HOST = postgres
+defina DB_PORT = 5432
+
+Criar um novo banco de dados chamado
+$ api-certificados
+
+Execute as migrations com o comando 
 $ yarn typeorm migration:run
 ```
 
-## Running the app
+## Rodando a Aplicação
 
 ```bash
 # development
@@ -32,14 +37,14 @@ $ npm start
 
 ```
 
-## Test
+## Testando a aplicação
 
 ```bash
 # unit tests
 $ npm run test
 ```
 
-## Open Swagger api
+## Abrir o Swagger
 
 ```bash
 # Swagger URL
