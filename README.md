@@ -30,19 +30,22 @@
 
 ```bash
 $ npm install
+install postgres db
+define DB_USER = postgres
+define DB_PASSWORD = postgres
+define DB_HOST = postgres
+define DB_PORT = 5432
+create new database named = api-certificados
+finally execute migrations 
+$ yarn typeorm migration:run
 ```
 
 ## Running the app
 
 ```bash
 # development
-$ npm run start
+$ npm start
 
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
 ```
 
 ## Test
@@ -50,12 +53,12 @@ $ npm run start:prod
 ```bash
 # unit tests
 $ npm run test
+```
 
-# e2e tests
-$ npm run test:e2e
+## Open swagger api
 
-# test coverage
-$ npm run test:cov
+```bash
+http://localhost:3002/api/
 ```
 
 ## Support
