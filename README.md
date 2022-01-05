@@ -32,7 +32,6 @@ $ yarn typeorm migration:run
 ## Rodando a Aplicação
 
 ```bash
-# development
 $ npm start
 
 ```
@@ -40,14 +39,12 @@ $ npm start
 ## Testando a aplicação
 
 ```bash
-# unit tests
 $ npm run test
 ```
 
 ## Abrir o Swagger
 
 ```bash
-# Swagger URL
 http://localhost:3002/api/
 ```
 
