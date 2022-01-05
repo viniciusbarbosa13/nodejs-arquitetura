@@ -8,21 +8,21 @@
 
 ## Descrição
 
-Exemplo prático de uma api desenvolvida em NodeJs com NestJs
+Exemplo prático de uma API desenvolvida em NodeJs com NestJs e Banco de Dados Postgres
 
 ## Instalação
 
-Instale as dependencias
+Instalando as dependencias
 ```
 $ npm install
 ```
-## Banco de Dados
+## Instalando o Banco de Dados
 
 <a target="_blank" href="https://www.postgresql.org/download/">
 Instale o banco de dados postgres
 </a>
 
-## Configuração do Banco de Dados
+## Configurando o Banco de Dados
 
 defina DB_USER
 ```
@@ -46,7 +46,7 @@ Criar um novo banco de dados chamado
 api-certificados
 ```
 
-## Execute as migrations
+## Executando as Migrações
 ```
 $ yarn typeorm migration:run
 ```
