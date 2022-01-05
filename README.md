@@ -55,9 +55,10 @@ $ npm start
 $ npm run test
 ```
 
-## Open swagger api
+## Open Swagger api
 
 ```bash
+# Swagger URL
 http://localhost:3002/api/
 ```
 
