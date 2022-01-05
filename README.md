@@ -12,8 +12,7 @@ Exemplo prático de uma api desenvolvida em NodeJs com NestJs
 
 ## Instalação
 
-```
-Instale as dependencias
+#Instale as dependencias
 $ npm install
 
 <a target="_blank" href="https://www.postgresql.org/download/">
@@ -25,29 +24,19 @@ defina DB_PASSWORD = postgres
 defina DB_HOST = postgres
 defina DB_PORT = 5432
 
-Criar um novo banco de dados chamado
+#Criar um novo banco de dados chamado
 $ api-certificados
 
-Execute as migrations com o comando 
+#Execute as migrations com o comando 
 $ yarn typeorm migration:run
-```
 
 ## Rodando a Aplicação
-
-```bash
 $ npm start
 
-```
-
 ## Testando a aplicação
-
-```bash
 $ npm run test
-```
 
 ## Abrir o Swagger
-
-
 <a target="_blank" href="http://localhost:3002/api/">
 Abrir o Swagger
 </a>
