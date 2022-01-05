@@ -45,7 +45,11 @@ $ npm run test
 ## Abrir o Swagger
 
 ```bash
-Abra no navegador a seguinte URL
+
+<a href="http://nestjs.com/" target="blank">
+Abrir o Swagger
+</a>
+
 http://localhost:3002/api/
 ```
 
