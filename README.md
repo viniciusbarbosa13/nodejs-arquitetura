@@ -43,7 +43,7 @@ defina DB_PORT
 
 Criar um novo banco de dados chamado
 ```
-$ api-certificados
+api-certificados
 ```
 
 ## Execute as migrations
