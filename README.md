@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://logodownload.org/wp-content/uploads/2016/11/descomplica-logo.png" width="320" alt="Nest Logo" /></a>
+  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
@@ -8,11 +8,9 @@
 
 ## Descrição
 
-API do projeto B2B da Descomplica
+Exemplo prático de uma API desenvolvida em NodeJs com NestJs e Banco de Dados Postgres
 
 ## Instalação
-
-<a target="_blank" href="https://nodejs.org/en/download/">Clique aqui</a> para instalar a versão correta do NodeJs
 
 Instalando as dependencias
 ```
@@ -21,7 +19,7 @@ $ npm install
 ## Instalando o Banco de Dados
 
 <a target="_blank" href="https://www.postgresql.org/download/">
-Instale o banco de dados PostgreSql
+Instale o banco de dados postgres
 </a>
 
 ## Configurando o Banco de Dados
