@@ -8,9 +8,13 @@
 
 ## Descrição
 
-Exemplo prático de uma API desenvolvida em NodeJs com NestJs e Banco de Dados Postgres
+API do projeto B2B da Descomplica
 
 ## Instalação
+
+
+Instalar a ultima versao do NodeJs
+<a target="_blank" href="https://nodejs.org/dist/v16.13.2/node-v16.13.2-x64.msi">Clique aqui para instalar</a>
 
 Instalando as dependencias
 ```
@@ -19,7 +23,7 @@ $ npm install
 ## Instalando o Banco de Dados
 
 <a target="_blank" href="https://www.postgresql.org/download/">
-Instale o banco de dados postgres
+Instale o banco de dados PostgreSql
 </a>
 
 ## Configurando o Banco de Dados
