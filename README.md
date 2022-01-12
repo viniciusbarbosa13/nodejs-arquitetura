@@ -12,7 +12,7 @@ API do projeto B2B da Descomplica
 
 ## Instalação
 
-<a target="_blank" href="https://nodejs.org/dist/v16.13.2/node-v16.13.2-x64.msi">Clique aqui</a> para instalar a versão correta do NodeJs
+<a target="_blank" href="https://nodejs.org/en/download/">Clique aqui</a> para instalar a versão correta do NodeJs
 
 Instalando as dependencias
 ```
