@@ -15,7 +15,7 @@ API do projeto B2B da Descomplica
 
 Instalar a ultima versao do NodeJs
 ```
-<a target="_blank" href="https://nodejs.org/dist/v16.13.2/node-v16.13.2-x64.msi">Clique aqui para instalar</a>
+$ <a target="_blank" href="https://nodejs.org/dist/v16.13.2/node-v16.13.2-x64.msi">Clique aqui para instalar</a>
 ```
 
 Instalando as dependencias
